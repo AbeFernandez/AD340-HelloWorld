@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="student_info">Jose Fernandez 4/12/2022</string>
+</resources>
